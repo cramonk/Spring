@@ -1,8 +1,7 @@
-package ru.cramonk.spring.config.dao;
+package ru.cramonk.spring.dao;
 
 import org.springframework.stereotype.Component;
-import org.springframework.stereotype.Controller;
-import ru.cramonk.spring.config.models.Game;
+import ru.cramonk.spring.models.Game;
 
 import java.util.ArrayList;
 import java.util.List;

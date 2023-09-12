@@ -1,4 +1,4 @@
-package ru.cramonk.spring.config.models;
+package ru.cramonk.spring.models;
 
 public class Game {
     private int id;
